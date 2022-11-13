@@ -47,6 +47,7 @@
     "new-parens": ["error"],
     "no-array-constructor": ["error"],
     "no-continue": ["error"],
+    "no-console": ["off"],
     "no-lonely-if": ["error"],
     "no-multiple-empty-lines": ["error", {"max": 2, "maxEOF": 1}],
     "no-new-object": ["error"],

@@ -1,3 +1,7 @@
+# Mammoth 私人定制版
+
+根据自己的需求修改了部分源代码
+
 # Mammoth .docx to HTML converter
 
 Mammoth is designed to convert .docx documents,

@@ -1,13 +1,17 @@
 html {
     overflow-y: scroll;
     font-family: helvetica, arial, sans-serif;
+    line-height: 2;
+    font-size: 16px;
 }
 
 body {
     margin: 0;
     padding: 0;
 }
-
+table {
+    outline: 1px solid black;
+}
 .container {
     overflow: auto;
     max-width: 940px;
@@ -36,7 +40,7 @@ body {
 }
 
 .span8 {
-    width: 620px;
+    width: 100%;
 }
 
 .span4 {
